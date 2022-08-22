@@ -1,2 +1,3 @@
 Hello World! "First commit"
 Hi GIT "second commit"
+Final test "third commit"
